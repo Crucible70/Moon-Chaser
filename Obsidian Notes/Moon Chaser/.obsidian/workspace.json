@@ -11,8 +11,13 @@
             "id": "e8e00f44c0677fea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Start Menu/Rooms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Start Menu/Rooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Start Menu/Rooms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Start Menu/Rooms.md"
+              }
             }
           }
         ]
@@ -140,6 +149,7 @@
   },
   "active": "e8e00f44c0677fea",
   "lastOpenFiles": [
+    "Start Menu/Ideas.md",
     "test note.md",
     "Untitled"
   ]
