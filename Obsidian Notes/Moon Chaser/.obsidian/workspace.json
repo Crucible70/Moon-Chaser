@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "641e9d2b1cd5bc7d",
+        "id": "4e65a58b14833781",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e00f44c0677fea",
+            "id": "c61d9059e8cb6842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Menu/Rooms.md",
+                "file": "Start Menu/Rooms/Teleporter Room.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Menu/Rooms.md",
+                "file": "Start Menu/Rooms/Teleporter Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Menu/Rooms.md",
+                "file": "Start Menu/Rooms/Teleporter Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start Menu/Rooms.md"
+                "file": "Start Menu/Rooms/Teleporter Room.md"
               }
             }
           }
@@ -147,9 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e00f44c0677fea",
+  "active": "c61d9059e8cb6842",
   "lastOpenFiles": [
+    "Start Menu/Rooms/Teleporter Room.md",
+    "Start Menu/Rooms/Character Select.md",
+    "Start Menu/Rooms/Main Room.md",
+    "Start Menu/Rooms/Settings.md",
     "Start Menu/Ideas.md",
+    "Start Menu/Rooms",
+    "Start Menu/Rooms.md",
     "test note.md",
     "Untitled"
   ]
