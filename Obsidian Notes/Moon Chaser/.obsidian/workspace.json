@@ -15,6 +15,7 @@
               "state": {
                 "file": "test note.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -146,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7002e96f913989f7",
+  "active": "6d255a7d281cf9f0",
   "lastOpenFiles": [
+    "Test Folder",
     "test note.md",
     "create a link.md",
     "Welcome.md"
