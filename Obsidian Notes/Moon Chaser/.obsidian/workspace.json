@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0e3af42f28eb4960",
+        "id": "7d1fd9ffa0c61ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "7002e96f913989f7",
+            "id": "42c868104ab96b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "Start Menu/Rooms.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -64,6 +65,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7002e96f913989f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start Menu/Rooms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test note.md",
+                "file": "Start Menu/Rooms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test note.md",
+                "file": "Start Menu/Rooms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test note.md"
+                "file": "Start Menu/Rooms.md"
               }
             }
           }
@@ -146,9 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7002e96f913989f7",
+  "active": "6d255a7d281cf9f0",
   "lastOpenFiles": [
+    "Start Menu/Ideas.md",
+    "Start Menu/Rooms.md",
     "test note.md",
+    "Start Menu",
     "create a link.md",
     "Welcome.md"
   ]
