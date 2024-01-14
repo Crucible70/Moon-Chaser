@@ -28,3 +28,8 @@
 	3: Bubonic wave
 	4: 
 	5: Poison frog coating
+	
+
+
+$$hello$$
+[[Ideas]]

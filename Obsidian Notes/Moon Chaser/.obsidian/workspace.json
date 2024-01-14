@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48d168fe03e30a74",
+        "id": "3b93e1ba58bacc43",
         "type": "tabs",
         "children": [
           {
-            "id": "c8195672b0763295",
+            "id": "64f92976068d588f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Characters Ideas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Characters Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Characters Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Characters Ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8195672b0763295",
+  "active": "64f92976068d588f",
   "lastOpenFiles": [
-    "Start Menu/Rooms/Character Select.md",
-    "Characters/Characters Ideas.md",
-    "Ideas.md",
+    "Start Menu/Map.canvas",
+    "Start Menu/Rooms/Secret Room.md",
+    "Start Menu/Rooms/Settings.md",
     "Start Menu/Rooms/Teleporter Room.md",
+    "Start Menu/Rooms/Relics.md",
+    "Start Menu/Rooms/Character Select.md",
+    "Ideas.md",
+    "Characters/Characters Ideas.md",
     "Characters",
     "Start Menu/Rooms/Main Room.md",
-    "Start Menu/Rooms/Settings.md",
     "Start Menu/Ideas.md",
     "Start Menu/Rooms",
     "Start Menu/Rooms.md",
