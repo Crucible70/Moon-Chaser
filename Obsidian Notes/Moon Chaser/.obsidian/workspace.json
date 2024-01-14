@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3b93e1ba58bacc43",
+        "id": "e29684f5ffed7166",
         "type": "tabs",
         "children": [
           {
-            "id": "64f92976068d588f",
+            "id": "2a81be6ebb8900c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mage/Mage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd235c165358a531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mage/Mage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Mage/Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Mage/Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Mage/Mage.md"
+              }
             }
           }
         ]
@@ -138,22 +161,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f92976068d588f",
+  "active": "bd235c165358a531",
   "lastOpenFiles": [
-    "Start Menu/Map.canvas",
-    "Start Menu/Rooms/Secret Room.md",
-    "Start Menu/Rooms/Settings.md",
-    "Start Menu/Rooms/Teleporter Room.md",
-    "Start Menu/Rooms/Relics.md",
-    "Start Menu/Rooms/Character Select.md",
-    "Ideas.md",
+    "Characters/Mage/Archaic meditation.md",
+    "Characters/Mage/Mage.md",
+    "Characters/Mage/Leeching circle.md",
+    "Characters/Mage/Glacial palisade.md",
+    "Characters/Mage/Fireball charge.md",
+    "Characters/Mage/magic missile.md",
     "Characters/Characters Ideas.md",
+    "Characters/Artificer/Artificer.md",
+    "Characters/Artificer/Sharpshooting.md",
+    "Characters/Artificer/Multitool strike/Pickaxe.md",
+    "Characters/Artificer/Multitool strike/Axe.md",
+    "Characters/Artificer/Multitool strike/Multitool strike.md",
+    "Characters/Artificer/Multitool strike",
+    "Characters/Artificer/Shoot/Shoot.md",
+    "Characters/Artificer/Shoot/Focus shot.md",
+    "Characters/Artificer/Shoot/Spray.md",
+    "Characters/Artificer/Shoot/bullets.md",
+    "Characters/Artificer/Shoot",
+    "Characters/Artificer/Switch weapon.md",
+    "Characters/Artificer/Stomp.md",
+    "Start Menu/Map.canvas",
+    "Ideas.md",
+    "Start Menu/Rooms/Secret Room.md",
+    "Start Menu/Rooms/Relics.md",
+    "Characters/Reaper",
+    "Characters/Automaton",
+    "Characters/Mage",
+    "Characters/Artificer",
+    "Start Menu/Rooms/Character Select.md",
     "Characters",
     "Start Menu/Rooms/Main Room.md",
-    "Start Menu/Ideas.md",
+    "Start Menu/Rooms/Settings.md",
+    "Start Menu/Rooms/Teleporter Room.md",
     "Start Menu/Rooms",
     "Start Menu/Rooms.md",
-    "test note.md",
-    "Untitled"
+    "Test Folder"
   ]
 }

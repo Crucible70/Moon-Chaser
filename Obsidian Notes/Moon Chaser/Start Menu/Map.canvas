@@ -3,7 +3,6 @@
 		{"id":"94b28fd67c4540c8","type":"file","file":"Start Menu/Rooms/Main Room.md","x":-480,"y":-240,"width":400,"height":400,"color":"1"},
 		{"id":"724fa58595af9e91","type":"text","text":"","x":-580,"y":-60,"width":100,"height":50},
 		{"id":"bec8cbe4c5fae4ce","type":"file","file":"Start Menu/Rooms/Character Select.md","x":-980,"y":-240,"width":400,"height":400,"color":"4"},
-		{"id":"04fc27c1ddb26b2e","type":"file","file":"Start Menu/Rooms/Settings.md","x":20,"y":-240,"width":400,"height":400,"color":"#ffffff"},
 		{"id":"4b793d0f7b5bdc19","type":"text","text":"","x":-80,"y":-60,"width":100,"height":50},
 		{"id":"3de267f515e2efa3","type":"file","file":"Start Menu/Rooms/Teleporter Room.md","x":-480,"y":-730,"width":400,"height":400,"color":"5"},
 		{"id":"ae0c26642ed7f720","type":"file","file":"Start Menu/Rooms/Relics.md","x":20,"y":-730,"width":400,"height":400,"color":"#7400b3"},
@@ -25,7 +24,8 @@
 		{"id":"3a5cf1d2cd96a02f","type":"text","text":"","x":-1080,"y":425,"width":100,"height":50},
 		{"id":"f97f18e1983edcc0","type":"text","text":"","x":-1305,"y":250,"width":50,"height":225},
 		{"id":"f75dba38077c7cf5","type":"text","text":"","x":-1305,"y":425,"width":225,"height":50},
-		{"id":"71cb8ceb08b46ee1","type":"text","text":"","x":-1305,"y":160,"width":50,"height":90}
+		{"id":"71cb8ceb08b46ee1","type":"text","text":"","x":-1305,"y":160,"width":50,"height":90},
+		{"id":"04fc27c1ddb26b2e","type":"file","file":"Start Menu/Rooms/Settings.md","x":20,"y":-240,"width":400,"height":400,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"1384822c8477cc59","fromNode":"94b28fd67c4540c8","fromSide":"left","toNode":"bec8cbe4c5fae4ce","toSide":"right"},

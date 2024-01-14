@@ -1,0 +1,1 @@
+A fast shooting yet low damaging technique

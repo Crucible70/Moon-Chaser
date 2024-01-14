@@ -1,0 +1,1 @@
+fast attacking yet less damage than the [[Pickaxe]]

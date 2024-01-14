@@ -1,7 +1,7 @@
 ##### **Artificer** 
 	1: Shoot
-	2: Switch Weapon
-	3: Stomp
+	2: Stomp
+	3: Switch Weapon
 	4: Multitool Strike
 	5: Sharpshooting
 ##### **Jack of all trades**
@@ -15,7 +15,7 @@
 	2: Fireball charge 
 	3: Glacial palisade
 	4: Leeching circle 
-	5:Archaic Medatation
+	5:Archaic Meditation
 ##### **Automaton**
 	1: static shot
 	2: Tesla strike

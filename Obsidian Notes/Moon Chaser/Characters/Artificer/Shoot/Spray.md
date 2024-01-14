@@ -1,0 +1,1 @@
+A low damaging yet spread out technique

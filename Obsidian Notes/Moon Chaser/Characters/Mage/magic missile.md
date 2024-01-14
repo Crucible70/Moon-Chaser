@@ -1,0 +1,1 @@
+a small projectile that deals average damage

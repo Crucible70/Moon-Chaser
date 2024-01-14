@@ -1,0 +1,1 @@
+high damage yet a slower speed than [[Axe]]
