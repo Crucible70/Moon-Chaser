@@ -1,9 +1,9 @@
 ##### **Artificer** 
-	1: Multitool Strike
+	1: Shoot
 	2: Switch Weapon
-	3: 
-	4: 
-	5: 
+	3: Stomp
+	4: Multitool Strike
+	5: Sharpshooting
 ##### **Jack o' all trades**
 	1: 
 	2: 
@@ -11,20 +11,20 @@
 	4: 
 	5: 
 ##### **Mage** 
-	1: 
+	1: Magic missile
 	2: Fireball charge 
-	3: Leeching circle 
-	4:
-	5:
+	3: Glacial palisade
+	4: Leeching circle 
+	5:Archaic Medatation
 ##### **Automaton**
-	1: 
-	2: 
+	1: static shot
+	2: Tesla strike
 	3: 
 	4: 
 	5: Reactor Overclock
 ##### **Reaper**
-	1: 
-	2: 
-	3: 
+	1: Scythe slice
+	2: Boomerang scythe
+	3: Bubonic wave
 	4: 
-	5: 
+	5: Poison frog coating
