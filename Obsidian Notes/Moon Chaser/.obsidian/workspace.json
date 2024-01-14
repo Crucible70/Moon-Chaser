@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4e65a58b14833781",
+        "id": "b506d90f9d5d9573",
         "type": "tabs",
         "children": [
           {
-            "id": "c61d9059e8cb6842",
+            "id": "c69ef66585bdbd2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Menu/Rooms/Teleporter Room.md",
+                "file": "Ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51dd3c4bd86ca936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Characters Ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Menu/Rooms/Teleporter Room.md",
+                "file": "Characters/Characters Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Menu/Rooms/Teleporter Room.md",
+                "file": "Characters/Characters Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start Menu/Rooms/Teleporter Room.md"
+                "file": "Characters/Characters Ideas.md"
               }
             }
           }
@@ -147,16 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c61d9059e8cb6842",
+  "active": "51dd3c4bd86ca936",
   "lastOpenFiles": [
-    "Start Menu/Rooms/Teleporter Room.md",
+    "Ideas.md",
+    "Characters/Characters Ideas.md",
     "Start Menu/Rooms/Character Select.md",
+    "Characters",
     "Start Menu/Rooms/Main Room.md",
     "Start Menu/Rooms/Settings.md",
-    "Start Menu/Ideas.md",
+    "Start Menu/Rooms/Teleporter Room.md",
     "Start Menu/Rooms",
     "Start Menu/Rooms.md",
     "test note.md",
-    "Untitled"
+    "Test Folder/test note.md",
+    "Test Folder"
   ]
 }
