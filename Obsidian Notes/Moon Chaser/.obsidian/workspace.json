@@ -11,8 +11,13 @@
             "id": "a85897e46e4323f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Characters Ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -142,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04795cecbbfcd1bf",
+  "active": "a85897e46e4323f3",
   "lastOpenFiles": [
     "Ideas.md",
     "Characters/Characters Ideas.md",
