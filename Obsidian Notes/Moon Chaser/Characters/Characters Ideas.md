@@ -4,7 +4,7 @@
 	3: Stomp
 	4: Multitool Strike
 	5: Sharpshooting
-##### **Jack o' all trades**
+##### **Jack of all trades**
 	1: 
 	2: 
 	3: 

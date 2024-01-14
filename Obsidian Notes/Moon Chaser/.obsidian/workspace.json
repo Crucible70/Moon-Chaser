@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa2c9ef31e6928f",
+        "id": "48d168fe03e30a74",
         "type": "tabs",
         "children": [
           {
-            "id": "a85897e46e4323f3",
+            "id": "c8195672b0763295",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,23 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04795cecbbfcd1bf",
+  "active": "c8195672b0763295",
   "lastOpenFiles": [
-    "Characters/Reaper",
-    "Characters/Automaton",
-    "Characters/Mage",
-    "Ideas.md",
-    "Characters/Characters Ideas.md",
-    "Characters/Artificer",
     "Start Menu/Rooms/Character Select.md",
+    "Characters/Characters Ideas.md",
+    "Ideas.md",
+    "Start Menu/Rooms/Teleporter Room.md",
     "Characters",
     "Start Menu/Rooms/Main Room.md",
     "Start Menu/Rooms/Settings.md",
-    "Start Menu/Rooms/Teleporter Room.md",
+    "Start Menu/Ideas.md",
     "Start Menu/Rooms",
     "Start Menu/Rooms.md",
     "test note.md",
-    "Test Folder/test note.md",
-    "Test Folder"
+    "Untitled"
   ]
 }
