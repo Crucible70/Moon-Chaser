@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mage/Mage.md",
+                "file": "Characters/Artificer/Artificer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mage/Mage.md",
+                "file": "Characters/Artificer/Artificer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mage/Mage.md",
+                "file": "Characters/Artificer/Artificer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mage/Mage.md"
+                "file": "Characters/Artificer/Artificer.md"
               }
             }
           }
@@ -163,14 +163,15 @@
   },
   "active": "bd235c165358a531",
   "lastOpenFiles": [
-    "Characters/Mage/Archaic meditation.md",
+    "Start Menu/Map.canvas",
+    "Characters/Artificer/Artificer.md",
     "Characters/Mage/Mage.md",
+    "Characters/Mage/Archaic meditation.md",
     "Characters/Mage/Leeching circle.md",
     "Characters/Mage/Glacial palisade.md",
     "Characters/Mage/Fireball charge.md",
     "Characters/Mage/magic missile.md",
     "Characters/Characters Ideas.md",
-    "Characters/Artificer/Artificer.md",
     "Characters/Artificer/Sharpshooting.md",
     "Characters/Artificer/Multitool strike/Pickaxe.md",
     "Characters/Artificer/Multitool strike/Axe.md",
@@ -183,7 +184,6 @@
     "Characters/Artificer/Shoot",
     "Characters/Artificer/Switch weapon.md",
     "Characters/Artificer/Stomp.md",
-    "Start Menu/Map.canvas",
     "Ideas.md",
     "Start Menu/Rooms/Secret Room.md",
     "Start Menu/Rooms/Relics.md",
@@ -197,7 +197,6 @@
     "Start Menu/Rooms/Settings.md",
     "Start Menu/Rooms/Teleporter Room.md",
     "Start Menu/Rooms",
-    "Start Menu/Rooms.md",
     "Test Folder"
   ]
 }
