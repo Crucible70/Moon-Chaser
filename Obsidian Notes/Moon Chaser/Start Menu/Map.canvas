@@ -16,7 +16,7 @@
 		{"id":"93e9bdb50a7a797b","type":"text","text":"","x":-1080,"y":-555,"width":100,"height":50},
 		{"id":"61f3eea209e8cbab","type":"text","text":"","x":-1305,"y":-555,"width":225,"height":50},
 		{"id":"d1794fc8f571ec84","type":"text","text":"","x":-1305,"y":-555,"width":50,"height":225},
-		{"id":"ebf5c1385faab3d6","type":"text","text":"","x":-1305,"y":-240,"width":50,"height":400},
+		{"id":"ebf5c1385faab3d6","type":"text","text":"[[Arena]]","x":-1600,"y":-240,"width":345,"height":400,"color":"3"},
 		{"id":"6077286d690c284c","type":"text","text":"","x":-580,"y":425,"width":100,"height":50},
 		{"id":"66294de3b4785c5a","type":"text","text":"","x":-980,"y":425,"width":400,"height":50},
 		{"id":"dcf1b54509d751e4","type":"text","text":"","x":-480,"y":425,"width":400,"height":50},
