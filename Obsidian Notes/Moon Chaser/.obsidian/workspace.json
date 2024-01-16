@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Characters/Mage/Mage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Characters/Mage/Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Characters/Mage/Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Characters/Mage/Mage.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "2a81be6ebb8900c0",
   "lastOpenFiles": [
+    "Characters/Artificer/Artificer.md",
+    "Characters/Mage/Mage.md",
+    "Start Menu/Rooms/Arena.md",
     "Start Menu/Map.canvas",
+    "Ideas.md",
     "Characters/Artificer/Shoot/Shoot.md",
     "Characters/Artificer/Sharpshooting.md",
-    "Characters/Artificer/Artificer.md",
     "Characters/Artificer/Switch weapon.md",
     "Characters/Artificer/Shoot/Focus shot.md",
     "Characters/Artificer/Multitool strike/Multitool strike.md",
-    "Characters/Mage/Mage.md",
     "Characters/Artificer/Stomp.md",
-    "Start Menu/Rooms/Arena.md",
     "Characters/Mage/Archaic meditation.md",
     "Characters/Mage/Leeching circle.md",
     "Characters/Mage/Glacial palisade.md",
@@ -171,7 +172,6 @@
     "Characters/Artificer/Shoot/Spray.md",
     "Characters/Artificer/Shoot/bullets.md",
     "Characters/Artificer/Shoot",
-    "Ideas.md",
     "Start Menu/Rooms/Secret Room.md",
     "Start Menu/Rooms/Relics.md",
     "Characters/Reaper",
