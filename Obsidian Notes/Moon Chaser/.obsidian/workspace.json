@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e29684f5ffed7166",
+        "id": "61630fcfb51a3a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a81be6ebb8900c0",
+            "id": "ed028a8364740172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Mage/Mage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Start Menu/Map.canvas",
+                "viewState": {
+                  "x": -442.5,
+                  "y": -762.9201030927836,
+                  "zoom": -1.1874456119589751
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mage/Mage.md",
+                "file": "Start Menu/Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mage/Mage.md",
+                "file": "Start Menu/Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mage/Mage.md"
+                "file": "Start Menu/Map.canvas"
               }
             }
           }
@@ -147,29 +149,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a81be6ebb8900c0",
+  "active": "ed028a8364740172",
   "lastOpenFiles": [
-    "Characters/Artificer/Artificer.md",
-    "Characters/Mage/Mage.md",
-    "Start Menu/Rooms/Arena.md",
-    "Start Menu/Map.canvas",
     "Ideas.md",
-    "Characters/Artificer/Shoot/Shoot.md",
-    "Characters/Artificer/Sharpshooting.md",
+    "Characters/Characters Ideas.md",
+    "Characters/Mage/Fireball charge.md",
+    "Characters/Mage/Mage.md",
+    "Characters/Mage/Archaic meditation.md",
+    "Characters/Mage/Glacial palisade.md",
+    "Characters/Mage/Leeching circle.md",
+    "Characters/Artificer/Artificer.md",
     "Characters/Artificer/Switch weapon.md",
+    "Characters/Artificer/Shoot/Shoot.md",
     "Characters/Artificer/Shoot/Focus shot.md",
+    "Start Menu/Map.canvas",
+    "Characters/Mage/magic missile.md",
     "Characters/Artificer/Multitool strike/Multitool strike.md",
     "Characters/Artificer/Stomp.md",
-    "Characters/Mage/Archaic meditation.md",
-    "Characters/Mage/Leeching circle.md",
-    "Characters/Mage/Glacial palisade.md",
-    "Characters/Mage/Fireball charge.md",
-    "Characters/Mage/magic missile.md",
-    "Characters/Characters Ideas.md",
+    "Characters/Artificer/Sharpshooting.md",
+    "Characters/Artificer/Shoot/Spray.md",
+    "Start Menu/Rooms/Arena.md",
     "Characters/Artificer/Multitool strike/Pickaxe.md",
     "Characters/Artificer/Multitool strike/Axe.md",
     "Characters/Artificer/Multitool strike",
-    "Characters/Artificer/Shoot/Spray.md",
     "Characters/Artificer/Shoot/bullets.md",
     "Characters/Artificer/Shoot",
     "Start Menu/Rooms/Secret Room.md",
