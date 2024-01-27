@@ -8,5 +8,5 @@ Bestiary
 Arena
 Dungeon crawler generation
 Items
-Menu music first half an t-athair báistí
+Menu music
 Top-down

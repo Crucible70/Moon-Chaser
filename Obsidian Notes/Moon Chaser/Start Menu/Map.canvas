@@ -25,7 +25,8 @@
 		{"id":"cfdd14ba6de5d182","type":"text","text":"","x":-1305,"y":-240,"width":50,"height":400},
 		{"id":"4018352a19949a21","type":"text","text":"","x":370,"y":250,"width":50,"height":225},
 		{"id":"d0274d5f17e6f719","type":"text","text":"","x":370,"y":160,"width":50,"height":90},
-		{"id":"f3ba668d1ba3e38d","type":"file","file":"Start Menu/Rooms/Secret Room.md","x":-980,"y":-730,"width":400,"height":400}
+		{"id":"f3ba668d1ba3e38d","type":"file","file":"Start Menu/Rooms/Secret Room.md","x":-980,"y":-730,"width":400,"height":400},
+		{"id":"13cc6f50854e13fb","x":-1155,"y":-200,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"1384822c8477cc59","fromNode":"94b28fd67c4540c8","fromSide":"left","toNode":"bec8cbe4c5fae4ce","toSide":"right"},

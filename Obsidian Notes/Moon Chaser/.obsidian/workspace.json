@@ -11,14 +11,12 @@
             "id": "ed028a8364740172",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Start Menu/Map.canvas",
-                "viewState": {
-                  "x": -442.5,
-                  "y": -762.9201030927836,
-                  "zoom": -1.1874456119589751
-                }
+                "file": "Ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start Menu/Map.canvas",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start Menu/Map.canvas",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start Menu/Map.canvas"
+                "file": "Ideas.md"
               }
             }
           }
@@ -151,19 +149,19 @@
   },
   "active": "ed028a8364740172",
   "lastOpenFiles": [
+    "Start Menu/Map.canvas",
+    "Characters/Mage/Glacial palisade.md",
+    "Characters/Mage/Mage.md",
+    "Characters/Mage/magic missile.md",
     "Ideas.md",
+    "Characters/Artificer/Shoot/Focus shot.md",
+    "Characters/Artificer/Shoot/Shoot.md",
+    "Characters/Artificer/Switch weapon.md",
+    "Characters/Artificer/Artificer.md",
     "Characters/Characters Ideas.md",
     "Characters/Mage/Fireball charge.md",
-    "Characters/Mage/Mage.md",
     "Characters/Mage/Archaic meditation.md",
-    "Characters/Mage/Glacial palisade.md",
     "Characters/Mage/Leeching circle.md",
-    "Characters/Artificer/Artificer.md",
-    "Characters/Artificer/Switch weapon.md",
-    "Characters/Artificer/Shoot/Shoot.md",
-    "Characters/Artificer/Shoot/Focus shot.md",
-    "Start Menu/Map.canvas",
-    "Characters/Mage/magic missile.md",
     "Characters/Artificer/Multitool strike/Multitool strike.md",
     "Characters/Artificer/Stomp.md",
     "Characters/Artificer/Sharpshooting.md",
